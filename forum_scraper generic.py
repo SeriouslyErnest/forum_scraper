@@ -55,7 +55,7 @@ class Config:
 DEFAULT_CONFIG = Config()
 DEFAULT_CONFIG.thread_url = "URL here"
 DEFAULT_CONFIG.target_member_id = "MEMBERID HERE"
-DEFAULT_CONFIG.minimum_word_count = 200
+DEFAULT_CONFIG.minimum_word_count = 50
 
 # ==================== BROWSER FETCHER ====================
 class BrowserFetcher:
